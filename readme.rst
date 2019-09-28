@@ -10,6 +10,23 @@ interface and logical structure to access these libraries. CodeIgniter lets
 you creatively focus on your project by minimizing the amount of code needed
 for a given task.
 
+***********
+Descripción
+***********
+Plantilla para iniciar un proyecto con Codeigniter 3. 
+
+#Qué incluye este repositorio?
+
+Codeigniter 3 Framework
+.htaccess
+assets folder
+|--img folder
+|--css folder
+|--|--bootstrap.min.css
+|--js folder
+|--|--bootstrp.min.js
+|--|--jquery-3.4.1.min.js
+
 *******************
 Release Information
 *******************
