@@ -13,19 +13,16 @@ for a given task.
 ***********
 Descripción
 ***********
-Plantilla para iniciar un proyecto con Codeigniter 3. 
+Plantilla para iniciar un proyecto con Codeigniter 3 + Bootstrap 4 + .htaccess file
 
-#Qué incluye este repositorio?
+***********
+Qué incluye
+***********
 
-Codeigniter 3 Framework
-.htaccess
-assets folder
-|--img folder
-|--css folder
-|--|--bootstrap.min.css
-|--js folder
-|--|--bootstrp.min.js
-|--|--jquery-3.4.1.min.js
+- `Codeigniter 3 Framework`
+- `Bootstrap 4 (bootrstap.min.css, bootstrap.min.js, jquery-3.4.1.min.js)`
+- `.htaccess`
+- `assets folder (css,img,js)`
 
 *******************
 Release Information
